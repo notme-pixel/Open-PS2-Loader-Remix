@@ -10,7 +10,8 @@ Licensed under Academic Free License version 3.0
 This project focuses on customization, visual tweaks, and personal
 experiments while keeping full compatibility with the original OPL.
 
- This is **NOT an official version** of Open PS2 Loader.
+>[!NOTE]
+This is **NOT an official version** of Open PS2 Loader.
 
 This Project is currently in progress
 
