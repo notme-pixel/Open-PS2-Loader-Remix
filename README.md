@@ -1,5 +1,9 @@
 # Open PS2 Loader Remix (OPLR)
 
+Original work:
+Copyright 2013, Ifcaro & jimmikaelkael
+Licensed under Academic Free License version 3.0
+
 **Open PS2 Loader Remix** is a personal fork of the original
 [Open PS2 Loader (OPL)](https://github.com/ps2homebrew/Open-PS2-Loader).
 
