@@ -1,6 +1,5 @@
 # Open PS2 Loader Remix (OPLR)
 
-Original work:
 Copyright 2013, Ifcaro & jimmikaelkael
 Licensed under Academic Free License version 3.0
 
